@@ -1,0 +1,15 @@
+main {
+    margin: 30px;
+    background: white;
+}
+body{
+    background: #efefef;
+}
+
+.btn-publish{
+    float:right;
+    margin-bottom: 15px;
+}
+span{
+    font-weight: bold;
+}
